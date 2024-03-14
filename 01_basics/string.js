@@ -15,7 +15,7 @@ console.log(game)
 */
 console.log(str.toUpperCase());
 console.log(str.toLowerCase());
-let nam = "Ansh Yadav";
+let nam = "Pulkit Pal";
 const age = 22;
 let infor = `hey guys! this is ${name} this side , and my age is ${age}`; //this is backtics method ,and variable holder is called place holder in it
 console.log(infor);
